@@ -29,6 +29,13 @@
 
     }
 
+    body {
+        background-image: url("../images/image.jpg");
+        background-size: cover;
+        height: 100%;
+        width: 100%;
+    }
+
 }
 
 @media (min-width: 701px) {
@@ -46,7 +53,7 @@
     }
 
     body {
-        background-image: url("../../portfolio-01/images/charcoal-pens-copyspace.jpg");
+        background-image: url("../images/image.jpg");
         background-size: cover;
         height: 100%;
         width: 100%;
