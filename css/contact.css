@@ -58,6 +58,10 @@
         width: 100%;
     }
 
+    main{
+        height: 600px;
+    }
+
 }
 
 @media (min-width: 701px) {
