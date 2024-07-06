@@ -20,21 +20,20 @@
     padding: 40px;
 }
 
-/* .whatsapp,
-.github,
-.linkedin {
-    padding: 18px;
-    border: 1px solid red;
-} */
+.contacts {
 
+    width: 120px;
+    height: 80px;
+
+    padding :8px;
+}
 
 .contact-info li {
 
-    padding :8px;
+    padding :5px;
     
     background: rgb(28, 30, 32);
-    width: 120px;
-
+    
     margin-bottom: 5px;
 }
 
@@ -81,7 +80,22 @@
         height: 100%;
         width: 100%;
     }
+
+    .contact-info li:hover{
+        font-size: 22px;
+        background-color: #EEE;
+    }
+
+    .contact-info li:hover .contacts {
+        color: #012;
+    }
+
+    .avatar:hover img{
+        width: 140px;
+        height: 140px;
+    }
 }
+
 
 
 
