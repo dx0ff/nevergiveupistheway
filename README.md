@@ -1,12 +1,12 @@
 [![Visits Badge](https://badges.pufler.dev/visits/dx0ff/nevergiveupistheway)](https://asuman.up.railway.app/)
 
-Welcome to my personal portfolio website!
+# Welcome to my personal portfolio website!
 
-About
+### About
 
 This repository contains the source code for my personal portfolio website, showcasing my projects, skills, and experiences. The website is built with [insert technologies used, e.g., HTML, CSS, JavaScript, React, etc.].
 
-Features
+### Features
 
 
 - Intuitive Navigation: Easily navigate between pages using the navigation bar, featuring links to:
@@ -18,7 +18,7 @@ Features
     - Desktop environments: Optimized for larger screens and mouse interactions
 
 
-Getting Started
+### Getting Started
 
 To view the website, simply navigate to [https://asuman.up.railway.app/].
 
@@ -32,12 +32,12 @@ To run the website locally, follow these steps:
 No dependencies are required, and the website can be viewed directly by opening the index.html file in a browser.
 
 
-License
+### License
 
 This project is licensed under the MIT License.
 
 
-Contact
+### Contact
 
 For any questions or inquiries, please contact me at [https://wa.me/233552477259].
 
