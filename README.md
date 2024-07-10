@@ -4,7 +4,11 @@
 
 ### About
 
-This repository contains the source code for my personal portfolio website, showcasing my projects, skills, and experiences. The website is built with [insert technologies used, e.g., HTML, CSS, JavaScript, React, etc.].
+This repository contains the source code for my personal portfolio website, showcasing my projects, skills, and experiences. The website is built with:
+
+- HTML
+- CSS
+
 
 ### Features
 
