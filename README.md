@@ -24,7 +24,7 @@ This repository contains the source code for my personal portfolio website, show
 
 ### Getting Started
 
-To view the website, simply navigate to [https://asuman.up.railway.app/].
+To view the website, simply navigate to https://asuman.up.railway.app/.
 
 #### Local Development
 
