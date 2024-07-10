@@ -31,7 +31,7 @@ Local Development
 To run the website locally, follow these steps:
 
 - Clone the repository: `git clone git@github.com:dx0ff/nevergiveupistheway.git`
-- Open the index.html file in a web browser to view the website.
+- Open the `index.html` file in a web browser to view the website.
 
 No dependencies are required, and the website can be viewed directly by opening the index.html file in a browser.
 
