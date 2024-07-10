@@ -20,13 +20,13 @@ This repository contains the source code for my personal portfolio website, show
 
 ### Getting Started
 
-To view the website, simply navigate to [https://asuman.up.railway.app/].
+To view the website, simply navigate to `https://asuman.up.railway.app/`.
 
 Local Development
 
 To run the website locally, follow these steps:
 
-- Clone the repository: `git clone [git@github.com:dx0ff/nevergiveupistheway.git]
+- Clone the repository: `git clone git@github.com:dx0ff/nevergiveupistheway.git`
 - Open the index.html file in a web browser to view the website.
 
 No dependencies are required, and the website can be viewed directly by opening the index.html file in a browser.
@@ -39,7 +39,7 @@ This project is licensed under the MIT License.
 
 ### Contact
 
-For any questions or inquiries, please contact me at [https://wa.me/233552477259].
+For any questions or inquiries, please contact me at `https://wa.me/233552477259`.
 
 
 I hope you enjoy exploring my portfolio!
