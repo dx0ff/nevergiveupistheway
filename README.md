@@ -14,19 +14,19 @@ This repository contains the source code for my personal portfolio website, show
 
 
 - Intuitive Navigation: Easily navigate between pages using the navigation bar, featuring links to:
-    - Portfolio: Showcase of my projects and accomplishments
-    - Home: Index/landing page
-    - Contact: Access to my contact information
+    - Portfolio: Showcase of my projects and achievements.
+    - Home: Index/landing page.
+    - Contact: Access to my contact information.
 - Responsive Design: Seamlessly adapts to both:
-    - Mobile devices: Optimized for smaller screens and touch interfaces
-    - Desktop environments: Optimized for larger screens and mouse interactions
+    - Mobile devices: Optimized for smaller screens and touch interfaces.
+    - Desktop environments: Optimized for larger screens and mouse interactions.
 
 
 ### Getting Started
 
 To view the website, simply navigate to `https://asuman.up.railway.app/`.
 
-Local Development
+#### Local Development
 
 To run the website locally, follow these steps:
 
@@ -38,7 +38,7 @@ No dependencies are required, and the website can be viewed directly by opening 
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the `MIT License`.
 
 
 ### Contact
