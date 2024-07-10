@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/dx0ff/nevergiveupistheway)](https://asuman.up.railway.app/)
+
 Welcome to my personal portfolio website!
 
 About
